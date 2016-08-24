@@ -20,7 +20,7 @@ A new algorithm based on a splitting scheme and on the use of proximity operator
 Used in conjunction with a Maximum Entropy and $\ell_1$  hybrid regularisation, this algorithm converges rapidly and produces results robust against experimental noise.
 This method has been called PALMA.
 It is able to reproduce faithfully monodisperse as well as polydisperse systems, and numerous simulated and experimental examples are presented.
-It has been implemented on the server http://palma. labo.igbmc.fr where users can have their datasets processed automatically.
+It has been implemented on the server http://palma.labo.igbmc.fr where users can have their datasets processed automatically.
 
 ## This repository
 This repository contains the python and jpyter code used to generate the data and the figures in the manuscript
