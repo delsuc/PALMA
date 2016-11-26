@@ -9,7 +9,7 @@
 
 *Afef Cherni Emilie Chouzenoux and Marc-André Delsuc¨*
 
-arxiv:/xxxx-xxxx
+[arxiv.org:1608.07055](https://arxiv.org/abs/1608.07055)
 
 ## Abstract
 NMR is a tool of choice for the measure of diffusion coefficients of species in solution.
