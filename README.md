@@ -32,7 +32,7 @@ And you can find the code of other algorithms TRAIn, ITAMeD and ITAMeD with lp i
 
 - TRAIn:  https://code.google.com/archive/p/diffusion-mri/source
 - ITAMeD: http://nmr.cent.uw.edu.pl/index.php/download/category/1-diffusion-nmr 
-- ITAMeD with lp: http://nmr.cent.uw.edu.pl/index.php/download/category/1-diffusion-nmr       the python and jupyter code used to generate the data and the figures in the manuscript
+- ITAMeD with lp: http://nmr.cent.uw.edu.pl/index.php/download/category/1-diffusion-nmr
 
 ### Figures_ESI
 This repostory contains the ipython notebook code of table S2 and table S3 in the ESI.
@@ -50,6 +50,6 @@ So please run this script before running the different examples.
 
 *This program HAS NOT been tested intensively, it is believed to do what it is supposed to do, However, you are welcome to check it on your own data.*
 
-    Author : M-A Delsuc (madelsuc@unistra.fr)
-    Date : June 2016
-    Version : 1.0
+    Author : Afef Cherni, Marc-André Delsuc (madelsuc@unistra.fr)
+    Version : 1.0   Date : June 2016
+    Version : 2.0   Date : December 2016
