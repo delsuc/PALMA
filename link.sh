@@ -5,4 +5,4 @@ for i in Figures_ESI/S* ; do
 	echo "$i"
 done
 
-( cd Figures_Article; ln -s Code)
+( cd Figures_Article; ln -s ../Code Code)
