@@ -23,7 +23,25 @@ It is able to reproduce faithfully monodisperse as well as polydisperse systems,
 It has been implemented on the server http://palma.labo.igbmc.fr where users can have their datasets processed automatically.
 
 ## This repository
-This repository contains the python and jpyter code used to generate the data and the figures in the manuscript
+This folder contains the ipython notebooks to create every figures and tables of the ESI and the manuscript.
+
+### Code
+The Code folder contains the code of PALMA algorithm and the code generating all simulated signals presented in the Electronic Support Information (ESI).
+These files will be used in all other tests through an alias, and a symbolic link to this folder should be created in each location where PALMA is to be used.
+The `link.sh` script creates these links in all the required location for these tests.
+So please run this script before running the different examples.
+
+### Figures_Article
+This folder contains ipython notebook to create every figures in the manuscript.
+
+### Figures_ESI
+This folder contains ipython notebook to create every figures from the ESI from S1 to S16 and tables S2 and S3.
+And you can find the code of other algorithms TRAIn, ITAMeD and ITAMeD with lp in the following links:
+
+- TRAIn:  https://code.google.com/archive/p/diffusion-mri/source
+- ITAMeD: http://nmr.cent.uw.edu.pl/index.php/download/category/1-diffusion-nmr 
+- ITAMeD with lp: http://nmr.cent.uw.edu.pl/index.php/download/category/1-diffusion-nmr
+
 
 
 ---
@@ -31,6 +49,6 @@ This repository contains the python and jpyter code used to generate the data an
 
 *This program HAS NOT been tested intensively, it is believed to do what it is supposed to do, However, you are welcome to check it on your own data.*
 
-    Author : M-A Delsuc (madelsuc@unistra.fr)
-    Date : June 2016
-    Version : 1.0
+    Authors : Afef Cherni, Marc-André Delsuc (madelsuc@unistra.fr)
+    Version : 1.0   Date : June 2016
+    Version : 2.0   Date : December 2016
