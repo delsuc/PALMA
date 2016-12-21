@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
 for i in Figures_ESI/S* ; do
-	ln -s Code $i/Code
+	( cd $i; ln -s ../../Code Code )
 	echo "$i"
 done
-ln -s Code Figures_Article/Code
+
+( cd Figures_Article; ln -s Code)
