@@ -9,6 +9,8 @@
 
 *Afef Cherni Emilie Chouzenoux and Marc-André Delsuc¨*
 
+[Analyst (2017)](https://doi.org/10.1039/C6AN01902A)
+
 [arxiv.org:1608.07055](https://arxiv.org/abs/1608.07055)
 
 ## Abstract
